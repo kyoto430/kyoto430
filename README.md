@@ -6,4 +6,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-HTML, CSS, SASS, JavaScript, React, Redux, Bootsrap, Node.js, Express.js, GIT, MongoDB
+HTML, CSS, SASS, Bootsrap, JavaScript, React, GIT.
+
+<h3 align="left">Basic knowledge:</h3>
+
+Redux, Node.js, Express.js, MongoDB, Firebase
