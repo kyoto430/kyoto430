@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Ruslan.</h1>
-<h3 align="center">I'm Frontend Developer from Minsk, Belarus.</h3>
+<h3 align="center">I'm Web Developer from Minsk, Belarus.</h3>
 
-- 🌱 I’m currently learning:  **next, react, javascript**
 - 📫 How to reach me:  **nateriver345@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
