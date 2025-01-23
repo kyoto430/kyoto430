@@ -5,7 +5,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-HTML, CSS, SASS, Gulp, JavaScript, React, Redux, Git, GitHub, Wordpress, Figma, PS.
+HTML, CSS, SASS, Gulp, JavaScript, React, Redux, Wordpress, Git, GitHub, Figma, PS.
 
 <h3 align="left">Basic knowledge:</h3>
 
