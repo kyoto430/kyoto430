@@ -5,8 +5,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-HTML, CSS, SASS, Gulp, JavaScript, React, Redux, Wordpress, Git, GitHub, Figma, PS.
-
-<h3 align="left">Basic knowledge:</h3>
-
-Next.js, Node.js, Express.js, MongoDB, Firebase.
+HTML, PUG, CSS, SASS, Tailwind, Gulp, JavaScript, React, Redux, Expo, TypeScript, Node.js, Firebase, Git, GitHub, Figma, PS.
